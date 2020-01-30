@@ -20,7 +20,7 @@ The units supported are:
 - Fahrenheit
     - degF, f, or F
 - Kelvin
-    - Kelvin, k, or K
+    - kelvin, k, or K
  
  
  ## Example Syntax
