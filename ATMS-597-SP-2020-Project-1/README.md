@@ -35,6 +35,8 @@ tmpf = TempConvert(45, 'degF')
 tmpc = tmpf.to('degC')
 ```
 
+![Full Example Notebook](https://colab.research.google.com/github/szymbor2/ATMS-597-SP-2020/blob/master/ATMS-597-SP-2020-Project-1/examples/examples.ipynb)
+
 ## Primary Developers:
 - Divyansh Chug
 - Sarah Szymborski
